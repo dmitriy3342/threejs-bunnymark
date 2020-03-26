@@ -2,7 +2,7 @@
 
 **Three.js bunnymark or Three.js vs Pixi.js**
 
-
+* [Demo](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dmitriy3342/threejs-bunnymark/master/dist/index.html)
 
 ## Task: Load PC until FPS will be equal 35
 

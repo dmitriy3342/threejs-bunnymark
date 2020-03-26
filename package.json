@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "build": "parcel build --public-url https://raw.githubusercontent.com/dmitriy3342/threejs-bunnymark/master/dist/ src/index.html"
   },
   "author": "",
   "license": "ISC",
